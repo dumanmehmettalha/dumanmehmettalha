@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mehmet Talha Duman</h1>
-<h3 align="center">A passionate developer from Turkey and a Computer Engineering student at Yıldız Technical University.</h3>
+<h3 align="center">Developer from Turkey and a Computer Engineering student at Yıldız Technical University.</h3>
 
 - 🌱 I’m currently learning **Frameworks, design patterns and machine learning**
 
